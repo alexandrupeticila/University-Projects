@@ -1,0 +1,70 @@
+12
+Sa Sb Sc Sd So SS Sf S2f S3f Si S5f Sfin 
+1
+Sfin
+So
+64
+So a Sa a H
+So b Sb b H
+So c Sc c H
+So d Sd d H
+So 1 So 1 R
+So # Sf # L
+Sa a Sa a R
+Sa b SS 1 H
+Sa c SS 1 H
+Sa d SS 1 H
+Sa 1 Sa 1 R
+Sa # Sf # L
+Sb a SS 1 H
+Sb b Sb b R
+Sb c SS 1 H
+Sb d SS 1 H
+Sb 1 Sb 1 R
+Sb # Sf # L
+Sc a SS 1 H
+Sc b SS 1 H
+Sc c Sc c R
+Sc d SS 1 H
+Sc 1 Sc 1 R
+Sc # Sf # L
+Sd a SS 1 H
+Sd b SS 1 H
+Sd c SS 1 H
+Sd d Sd d R
+Sd 1 Sd 1 R
+Sd # Sf # L
+SS a So 1 H
+SS b So 1 H
+SS c So 1 H
+SS d So 1 H
+SS 1 SS 1 L
+SS # S0 # R
+Sf a S2f a L
+Sf b S2f b L
+Sf c S2f c L
+Sf d S2f d L
+Sf 1 Sf # L
+S2f a S3f a L
+S2f b S3f b L
+S2f c S3f c L
+S2f d S3f d L
+S2f 1 S2f 1 L
+S2f # Si # R 
+S3f 1 S3f 1 L
+S3f a S3f 1 L
+S3f c S3f 1 L
+S3f b S3f 1 L
+S3f d S3f 1 L
+S3f # Si # R
+Si 1 Si # R
+Si a S5f a R
+Si b S5f b R
+Si c S5f c R
+Si d S5f d R
+S5f 1 S5f # R
+S5f a Sfin # H
+S5f b Sfin # H
+S5f c Sfin # H
+S5f d Sfin # H
+S5f # Sfin #  H
